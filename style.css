@@ -1,11 +1,9 @@
 @font-face {
-  font-family: 'MyWebFont';
-  src: url('webfont.eot'); /* IE9 Compat Modes */
-  src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
-       url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
-       url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-family: 'Electrolize';
+       url('fonts/Electrolize-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+  font-family: 'Press Start 2P';
+       url('fonts/PressStart2P-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       
 }
 
 #custom-bootstrap-menu.navbar-default .navbar-brand {
