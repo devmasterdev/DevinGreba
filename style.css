@@ -1,19 +1,19 @@
 @font-face {
   font-family: 'Electrolize';
-  src: url('fonts/Electrolize-Regular.eot'); /* IE9 Compat Modes */
-  src: url('fonts/Electrolize-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/Electrolize-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/Electrolize-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-       url('fonts/Electrolize-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('fonts/Electrolize-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+  src: url(fonts/Electrolize-Regular.eot); /* IE9 Compat Modes */
+  src: url(fonts/Electrolize-Regular.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+       url(fonts/Electrolize-Regular.woff2) format('woff2'), /* Super Modern Browsers */
+       url(fonts/Electrolize-Regular.woff) format('woff'), /* Pretty Modern Browsers */
+       url(fonts/Electrolize-Regular.ttf)  format('truetype'), /* Safari, Android, iOS */
+       url(fonts/Electrolize-Regular.svg#svgFontName) format('svg'); /* Legacy iOS */
   
   font-family: 'Press Start 2P';
-  src: url('fonts/PressStart2P-Regular.eot'); /* IE9 Compat Modes */
-  src: url('fonts/PressStart2P-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/PressStart2P-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/PressStart2P-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-       url('fonts/PressStart2P-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('fonts/PressStart2P-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+  src: url(fonts/PressStart2P-Regular.eot); /* IE9 Compat Modes */
+  src: url(fonts/PressStart2P-Regular.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+       url(fonts/PressStart2P-Regular.woff2) format('woff2'), /* Super Modern Browsers */
+       url(fonts/PressStart2P-Regular.woff) format('woff'), /* Pretty Modern Browsers */
+       url(fonts/PressStart2P-Regular.ttf)  format('truetype'), /* Safari, Android, iOS */
+       url(fonts/PressStart2P-Regular.svg#svgFontName) format('svg'); /* Legacy iOS */
 }
 
 #custom-bootstrap-menu.navbar-default .navbar-brand {
