@@ -1,9 +1,19 @@
 @font-face {
   font-family: 'Electrolize';
-       url('fonts/Electrolize-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+  src: url('Electrolize-Regular.eot'); /* IE9 Compat Modes */
+  src: url('Electrolize-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Electrolize-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('Electrolize-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('Electrolize-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Electrolize-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+  
   font-family: 'Press Start 2P';
-       url('fonts/PressStart2P-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-       
+  src: url('PressStart2P-Regular.eot'); /* IE9 Compat Modes */
+  src: url('PressStart2P-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('PressStart2P-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('PressStart2P-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('PressStart2P-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('PressStart2P-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
 #custom-bootstrap-menu.navbar-default .navbar-brand {
@@ -82,7 +92,6 @@ p{
 
 .paraindent{
 	text-indent: 50px;
-	text-align: justify;
 }
 
 .my-logo{
